@@ -4,10 +4,13 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+
+<title>메리메리크리스마스</title>
 </head>
 <body>
+	<h1>아이 추워라</h1>
 	<h2>git 연습시간이에요</h2>
+
 
 </body>
 </html>
